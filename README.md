@@ -15,12 +15,12 @@ mpv.net：基于mpv开源播放器的Windows媒体播放器
 
 3. 集成旧版懒人包里的SVP补帧插件(hooke007/MPV_lazy)
 
-4. 修改右键菜单
+4. 修改右键菜单   
     • 修改部分翻译（参考potplayer）    
     • 修改排列顺序    
     • 修改vs滤镜和着色器方案，兼容更多显卡 
 		
-5. 修改部分mpv设置
+5. 修改部分mpv设置   
     • 默认音量为100  
     • 默认硬件解码为auto-copy  
     • 不显示mpv.net的logo和特别版logo（否则会闪现原始logo）  

@@ -81,7 +81,7 @@ mpv.net：
 • 运行mpvnet.exe
 
 # 下载
-见右侧Releases
+见网页端右侧Releases或移动端下方Releases
 
 # 鸣谢
 感谢hooke007编写的mpv.net_CM，和各项说明；感谢cyl0编写的ModernX osc；感谢po5编写的thumbfast；感谢tsl0922编写的Implay，使thumbfast可以在mpvnet上使用

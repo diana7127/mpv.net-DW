@@ -76,7 +76,7 @@ mpv.net：
 # 安装
 • 安装 .NET framework 4.8 运行库
 
-• 下载并安装mpv.net_CM-DW
+• 下载并安装mpv.net_DW
 
 • 运行mpvnet.exe
 

@@ -11,14 +11,14 @@ mpv.net：基于mpv开源播放器的Windows媒体播放器
 基于上游，做出以下个人定制款
 1. 修改播放界面为ModernX（cyl0/ModernX）
 
-2. 集成thumbfast（po5/thumbfast）
+2. 集成缩略图引擎thumbfast（po5/thumbfast）
 
 3. 集成旧版懒人包里的SVP补帧插件（hooke007/MPV_lazy）
 
 4. 修改右键菜单   
     • 修改部分翻译（参考potplayer）    
     • 修改排列顺序    
-    • 修改vs滤镜和着色器方案，兼容更多显卡 
+    • 修改预设组的vs滤镜和着色器方案，兼容更多显卡 
 		
 5. 修改部分mpv设置   
     • 默认硬件解码为auto-copy  
@@ -27,9 +27,9 @@ mpv.net：基于mpv开源播放器的Windows媒体播放器
     • 默认模糊识别音频与字幕  
     • 不显示mpv.net的logo和特别版logo（否则会闪现原始logo）  
 		
-6. 修改部分快捷键设置  
+6. 修改部分快捷键设置（参考potplayer，用习惯了）  
     • 文件详细信息 — TAB  
-    • 打开字幕 — l（参考potplayer，用习惯了）  
+    • 打开字幕 — l  
 		
 7. 更新libmpv-2.dll（20230212）
 

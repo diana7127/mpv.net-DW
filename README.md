@@ -75,7 +75,7 @@ mpv.net：
 
 ![预览图04](https://user-images.githubusercontent.com/125502871/220125827-6a33ee6d-14a9-40fa-ae0c-733f6760f7b4.jpg)
 
-![预览图05](https://user-images.githubusercontent.com/125502871/220125842-447c5fa6-cd38-40cb-b8a3-007cc17e8e7f.jpg)
+![预览图05](https://user-images.githubusercontent.com/125502871/220144657-50817726-37f3-41c5-87be-9e50ca5a4cca.jpg)
 
 # 安装
 • 安装 .NET framework 4.8 运行库

@@ -9,11 +9,11 @@ mpv.net：基于mpv开源播放器的Windows媒体播放器
 
 # DW版本特点
 基于上游，做出以下个人定制款
-1. 修改播放界面为ModernX (cyl0/ModernX)
+1. 修改播放界面为ModernX（cyl0/ModernX）
 
-2. 集成thumbfast (po5/thumbfast)
+2. 集成thumbfast（po5/thumbfast）
 
-3. 集成旧版懒人包里的SVP补帧插件(hooke007/MPV_lazy)
+3. 集成旧版懒人包里的SVP补帧插件（hooke007/MPV_lazy）
 
 4. 修改右键菜单   
     • 修改部分翻译（参考potplayer）    

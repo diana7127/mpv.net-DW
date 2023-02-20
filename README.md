@@ -69,7 +69,7 @@ mpv.net：
 
 ![预览图02](https://user-images.githubusercontent.com/125502871/220125681-8b923747-9d21-48b1-98f7-9c9a30d263d5.jpg)
 
-![预览图03](https://user-images.githubusercontent.com/125502871/220125804-9a8c9fef-4b85-41fd-bb92-1ab7d66bb989.jpg)
+![预览图03](https://user-images.githubusercontent.com/125502871/220141801-b1266bb3-281b-4ab9-ab56-fea4c4faf2ff.jpg)
 
 • 设置界面  
 

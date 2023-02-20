@@ -63,15 +63,19 @@ mpv.net：
 # 预览
 • 播放预览  
 
-![播放预览](https://user-images.githubusercontent.com/125502871/219909389-0b85a976-0ef6-49c5-93b0-427d32eea67b.jpg)
+![预览图01](https://user-images.githubusercontent.com/125502871/220125637-0c3aa3cf-a8fe-4123-9da3-9ac93afe6ee2.jpg)
 
 • 右键菜单  
 
-![右键菜单](https://user-images.githubusercontent.com/125502871/219910110-2c5347f5-65e8-49f4-bfa3-2f8dfbbe9723.jpg)
+![预览图02](https://user-images.githubusercontent.com/125502871/220125681-8b923747-9d21-48b1-98f7-9c9a30d263d5.jpg)
 
-• 设置界面
+![预览图03](https://user-images.githubusercontent.com/125502871/220125804-9a8c9fef-4b85-41fd-bb92-1ab7d66bb989.jpg)
 
-![设置界面](https://user-images.githubusercontent.com/125502871/219910359-11ac16f3-7eeb-4d65-8075-3320ffd9f0d8.jpg)
+• 设置界面  
+
+![预览图04](https://user-images.githubusercontent.com/125502871/220125827-6a33ee6d-14a9-40fa-ae0c-733f6760f7b4.jpg)
+
+![预览图05](https://user-images.githubusercontent.com/125502871/220125842-447c5fa6-cd38-40cb-b8a3-007cc17e8e7f.jpg)
 
 # 安装
 • 安装 .NET framework 4.8 运行库

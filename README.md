@@ -84,4 +84,4 @@ mpv.net：
 见网页端右侧Releases或移动端下方Releases
 
 # 鸣谢
-感谢hooke007编写的mpv.net_CM，和各项说明；感谢cyl0编写的ModernX osc；感谢po5编写的thumbfast；感谢tsl0922编写的Implay，使thumbfast可以在mpvnet上使用
+感谢hooke007编写的mpv.net_CM，和各项说明；感谢cyl0编写的ModernX osc；感谢po5编写的thumbfast；感谢tsl0922编写的ImPlay，使thumbfast可以在mpvnet上使用

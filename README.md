@@ -61,15 +61,15 @@ mpv.net：
 # 预览
 • 播放预览  
 
-![Snipaste_2023-02-19_13-15-47](https://user-images.githubusercontent.com/125502871/219909389-0b85a976-0ef6-49c5-93b0-427d32eea67b.jpg)
+![播放预览](https://user-images.githubusercontent.com/125502871/219909389-0b85a976-0ef6-49c5-93b0-427d32eea67b.jpg)
 
 • 右键菜单  
 
-![219134304](https://user-images.githubusercontent.com/125502871/219910110-2c5347f5-65e8-49f4-bfa3-2f8dfbbe9723.jpg)
+![右键菜单](https://user-images.githubusercontent.com/125502871/219910110-2c5347f5-65e8-49f4-bfa3-2f8dfbbe9723.jpg)
 
 • 设置界面
 
-![Snipaste_2023-02-19_13-48-21](https://user-images.githubusercontent.com/125502871/219910359-11ac16f3-7eeb-4d65-8075-3320ffd9f0d8.jpg)
+![设置界面](https://user-images.githubusercontent.com/125502871/219910359-11ac16f3-7eeb-4d65-8075-3320ffd9f0d8.jpg)
 
 # 安装
 • 安装 .NET framework 4.8 运行库

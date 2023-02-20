@@ -21,8 +21,10 @@ mpv.net：基于mpv开源播放器的Windows媒体播放器
     • 修改vs滤镜和着色器方案，兼容更多显卡 
 		
 5. 修改部分mpv设置   
-    • 默认音量为100  
     • 默认硬件解码为auto-copy  
+    • 默认音量为100  
+    • 默认开启interpolation  
+    • 默认模糊识别音频与字幕  
     • 不显示mpv.net的logo和特别版logo（否则会闪现原始logo）  
 		
 6. 修改部分快捷键设置  

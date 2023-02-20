@@ -1,7 +1,7 @@
-# mpvnet_DW
+# mpvnet-DW
 Forked from hooke007/mpv.net_CM
 # 简介
-mpvnet_DW：mpv.net_CM的个人定制版
+mpvnet-DW：mpv.net_CM的个人定制版
 
 mpv.net_CM：mpv.net的中文分支模组
 
@@ -76,7 +76,7 @@ mpv.net：
 # 安装
 • 安装 .NET framework 4.8 运行库
 
-• 下载并安装mpvnet_DW
+• 下载并安装mpvnet-DW
 
 • 运行mpvnet.exe
 

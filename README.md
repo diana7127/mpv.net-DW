@@ -1,7 +1,7 @@
-# mpv.net_CM-DW
+# mpv.net_DW
 Forked from hooke007/mpv.net_CM
 # 简介
-mpv.net_CM-DW：mpv.net_CM的个人定制版
+mpv.net_DW：mpv.net_CM的个人定制版
 
 mpv.net_CM：mpv.net的中文分支模组
 

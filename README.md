@@ -67,15 +67,17 @@ mpv.net：
 
 • 右键菜单  
 
-![预览图02](https://user-images.githubusercontent.com/125502871/220125681-8b923747-9d21-48b1-98f7-9c9a30d263d5.jpg)
+![预览图02](https://user-images.githubusercontent.com/125502871/220289053-c8cf4148-5221-4775-8a2f-78402aef4072.jpg)
 
-![预览图03](https://user-images.githubusercontent.com/125502871/220141801-b1266bb3-281b-4ab9-ab56-fea4c4faf2ff.jpg)
+![预览图03](https://user-images.githubusercontent.com/125502871/220289162-57885382-d828-4aaf-ad44-6df8bc266f9a.jpg)
+
+![预览图04](https://user-images.githubusercontent.com/125502871/220289184-98ef08dd-67ab-4a67-807c-da95fede58b5.jpg)
 
 • 设置界面  
 
-![预览图04](https://user-images.githubusercontent.com/125502871/220125827-6a33ee6d-14a9-40fa-ae0c-733f6760f7b4.jpg)
+![预览图05](https://user-images.githubusercontent.com/125502871/220125827-6a33ee6d-14a9-40fa-ae0c-733f6760f7b4.jpg)
 
-![预览图05](https://user-images.githubusercontent.com/125502871/220144657-50817726-37f3-41c5-87be-9e50ca5a4cca.jpg)
+![预览图06](https://user-images.githubusercontent.com/125502871/220144657-50817726-37f3-41c5-87be-9e50ca5a4cca.jpg)
 
 # 安装
 • 安装 .NET framework 4.8 运行库

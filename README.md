@@ -3,9 +3,9 @@ mpv.net_CM的❤DW版本，定制了播放界面、右键菜单、缩略图、�
 # 简介
 ▶mpv.net-DW：mpv.net_CM的个人定制版
 
-◼mpv.net_CM：mpv.net的中文分支模组
+ ◼mpv.net_CM：mpv.net的中文分支模组
 
-◼mpv.net：基于mpv开源播放器的Windows媒体播放器
+ ◼mpv.net：基于mpv开源播放器的Windows媒体播放器
 
 # DW版本特点
 基于上游，做出以下个人定制款  

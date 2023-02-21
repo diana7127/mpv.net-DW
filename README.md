@@ -1,46 +1,47 @@
 # mpv.net-DW
-mpv.net_CM的DW版本，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
+mpv.net_CM的❤DW版本，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
 # 简介
-mpv.net-DW：mpv.net_CM的个人定制版
+▶mpv.net-DW：mpv.net_CM的个人定制版
 
-mpv.net_CM：mpv.net的中文分支模组
+◼mpv.net_CM：mpv.net的中文分支模组
 
-mpv.net：基于mpv开源播放器的Windows媒体播放器
+◼mpv.net：基于mpv开源播放器的Windows媒体播放器
 
 # DW版本特点
-基于上游，做出以下个人定制款
-1. 修改播放界面为ModernX（cyl0/ModernX）
+基于上游，做出以下个人定制款  
 
-2. 集成缩略图引擎thumbfast（po5/thumbfast）
+▶修改播放界面为ModernX（cyl0/ModernX）
 
-3. 集成旧版懒人包里的SVP补帧插件（hooke007/MPV_lazy）
+▶集成缩略图引擎thumbfast（po5/thumbfast）
 
-4. 修改右键菜单   
+▶集成旧版懒人包里的SVP补帧插件（hooke007/MPV_lazy）
+
+▶修改右键菜单   
     • 修改部分翻译（参考potplayer）    
     • 修改排列顺序    
     • 修改预设组的vs滤镜和着色器方案，兼容更多显卡 
 		
-5. 修改部分mpv设置   
+▶修改部分mpv设置   
     • 默认硬件解码为auto-copy  
     • 默认音量为100  
     • 默认开启interpolation  
     • 默认模糊识别音频与字幕  
     • 不显示mpv.net的logo和特别版logo（否则会闪现原始logo）  
 		
-6. 修改部分快捷键设置（参考potplayer，用习惯了）  
+▶修改部分快捷键设置（参考potplayer，用习惯了）  
     • 文件详细信息 — TAB  
     • 打开字幕 — l  
 		
-7. 更新libmpv-2.dll（20230212）
+▶更新libmpv-2.dll（20230212）
 
-8. 自解压安装包封装
+▶自解压安装包封装
 
-9. 一些其他细节
+▶一些其他细节
 
 # 上游版本特点
 引用自hooke007/mpv.net_CM
 
-mpv.net_CM：
+◼mpv.net_CM：
 
 • 界面汉化   
 • 编辑器选项修改   
@@ -50,7 +51,7 @@ mpv.net_CM：
 • 操作习惯移植自 mpv-lazy   
 • 有更友好的界面操作性
 
-mpv.net：   
+◼mpv.net：   
 
 • 几乎所有mpv的功能都可用，除去一些窗口行为  
 • 兼容几乎所有mpv脚本/着色器，除去部分具有特定依赖的项目  

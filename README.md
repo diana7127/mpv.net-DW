@@ -1,5 +1,5 @@
 # mpv.net-DW
-Forked from hooke007/mpv.net_CM
+mpv.net_CM的DW版本
 # 简介
 mpv.net-DW：mpv.net_CM的个人定制版
 

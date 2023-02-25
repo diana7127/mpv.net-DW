@@ -25,6 +25,7 @@ mpv.net_CM的💗DW版本💗，定制了播放界面、右键菜单、缩略图
     • 默认硬件解码为auto-copy  
     • 默认音量为100  
     • 默认开启interpolation  
+    • 默认开启icc色彩管理  
     • 默认模糊识别音频与字幕  
     • 不显示mpv.net的logo和特别版logo（否则会闪现原始logo）  
 		
@@ -68,11 +69,11 @@ mpv.net_CM的💗DW版本💗，定制了播放界面、右键菜单、缩略图
 
 • 右键菜单  
 
-![预览图02](https://user-images.githubusercontent.com/125502871/220289053-c8cf4148-5221-4775-8a2f-78402aef4072.jpg)
+![预览图02](https://user-images.githubusercontent.com/125502871/221334160-ce3310fa-b8bb-4258-a76c-992cd1467f39.jpg)
 
-![预览图03](https://user-images.githubusercontent.com/125502871/220289162-57885382-d828-4aaf-ad44-6df8bc266f9a.jpg)
+![预览图03](https://user-images.githubusercontent.com/125502871/221334168-57b9a765-2a77-4be5-ac54-e0f5abe7b82c.jpg)
 
-![预览图04](https://user-images.githubusercontent.com/125502871/220289184-98ef08dd-67ab-4a67-807c-da95fede58b5.jpg)
+![预览图04](https://user-images.githubusercontent.com/125502871/221334177-ea015bad-4ee5-4aea-b60d-fd8e4214365e.jpg)
 
 • 设置界面  
 

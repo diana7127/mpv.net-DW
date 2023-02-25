@@ -17,21 +17,21 @@ mpv.net_CM的💗DW版本💗，定制了播放界面、右键菜单、缩略图
 ☑️集成旧版懒人包里的SVP补帧插件（hooke007/MPV_lazy）
 
 ☑️修改右键菜单   
-    • 修改部分翻译（参考potplayer）    
-    • 修改排列顺序    
-    • 修改预设组的vs滤镜和着色器方案，兼容更多显卡 
+- 修改部分翻译（参考potplayer）    
+- 修改排列顺序    
+- 修改预设组的vs滤镜和着色器方案，兼容更多显卡 
 		
 ☑️修改部分mpv设置   
-    • 默认硬件解码为auto-copy  
-    • 默认音量为100  
-    • 默认开启interpolation  
-    • 默认开启icc色彩管理  
-    • 默认模糊识别音频与字幕  
-    • 不显示mpv.net的logo和特别版logo（否则会闪现原始logo）  
+- 默认硬件解码为auto-copy  
+- 默认音量为100  
+- 默认开启interpolation  
+- 默认开启icc色彩管理  
+- 默认模糊识别音频与字幕  
+- 不显示mpv.net的logo和特别版logo（否则会闪现原始logo）  
 		
 ☑️修改部分快捷键设置（参考potplayer，用习惯了）  
-    • 文件详细信息 — TAB  
-    • 打开字幕 — l  
+- 文件详细信息 — TAB  
+- 打开字幕 — l  
 		
 ☑️更新libmpv-2.dll（20230212）
 
@@ -44,49 +44,41 @@ mpv.net_CM的💗DW版本💗，定制了播放界面、右键菜单、缩略图
 
 🔘mpv.net_CM：
 
-• 界面汉化   
-• 编辑器选项修改   
-• 菜单条目+初始快捷键修改   
-• 集成Python+VapourSynth便携式组件   
-• 预设脚本与着色器   
-• 操作习惯移植自 mpv-lazy   
-• 有更友好的界面操作性
+- 界面汉化   
+- 编辑器选项修改   
+- 菜单条目+初始快捷键修改   
+- 集成Python+VapourSynth便携式组件   
+- 预设脚本与着色器   
+- 操作习惯移植自 mpv-lazy   
+- 有更友好的界面操作性
 
 🔘mpv.net：   
 
-• 几乎所有mpv的功能都可用，除去一些窗口行为  
-• 兼容几乎所有mpv脚本/着色器，除去部分具有特定依赖的项目  
-• 单实例/多实例切换   
-• 支持基础操作的播放列表、音轨字幕轨列表面板   
-• 图形化的设置修改与快捷键编辑器  
-• 可自定义的右键菜单  
-• 音量、窗口尺寸的退出时记忆 
+- 几乎所有mpv的功能都可用，除去一些窗口行为  
+- 兼容几乎所有mpv脚本/着色器，除去部分具有特定依赖的项目  
+- 单实例/多实例切换
+- 支持基础操作的播放列表、音轨字幕轨列表面板   
+- 图形化的设置修改与快捷键编辑器  
+- 可自定义的右键菜单  
+- 音量、窗口尺寸的退出时记忆 
 
 # 预览
-• 播放预览  
-
+- 播放预览  
 ![预览图01](https://user-images.githubusercontent.com/125502871/220343125-74366dd1-af9e-41a3-81e4-f1f06328a881.jpg)
 
-• 右键菜单  
-
+- 右键菜单  
 ![预览图02](https://user-images.githubusercontent.com/125502871/221334160-ce3310fa-b8bb-4258-a76c-992cd1467f39.jpg)
-
 ![预览图03](https://user-images.githubusercontent.com/125502871/221334168-57b9a765-2a77-4be5-ac54-e0f5abe7b82c.jpg)
-
 ![预览图04](https://user-images.githubusercontent.com/125502871/221334177-ea015bad-4ee5-4aea-b60d-fd8e4214365e.jpg)
 
-• 设置界面  
-
+- 设置界面  
 ![预览图05](https://user-images.githubusercontent.com/125502871/220125827-6a33ee6d-14a9-40fa-ae0c-733f6760f7b4.jpg)
-
 ![预览图06](https://user-images.githubusercontent.com/125502871/220144657-50817726-37f3-41c5-87be-9e50ca5a4cca.jpg)
 
 # 安装
-• 安装 .NET framework 4.8 运行库
-
-• 下载并安装 mpv.net-DW
-
-• 运行 mpvnet.exe
+- 安装 .NET framework 4.8 运行库
+- 下载并安装 mpv.net-DW
+- 运行 mpvnet.exe
 
 # 下载
 见网页端右侧Releases或移动端下方Releases

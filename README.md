@@ -24,6 +24,7 @@ mpv.net_CM的💗DW版本💗，定制了播放界面、右键菜单、缩略图
 		
 ☑️修改部分mpv设置   
 - 默认硬件解码为auto-copy  
+- 默认OSD显示为建议方案  
 - 默认音量为100  
 - 默认开启interpolation  
 - 默认开启icc色彩管理  

@@ -76,13 +76,13 @@ mpv.net_CM的💗DW版本💗，定制了播放界面、右键菜单、缩略图
 ![预览图06](https://user-images.githubusercontent.com/125502871/220144657-50817726-37f3-41c5-87be-9e50ca5a4cca.jpg)
 
 # 更新
-- **libmpv-2-x86_64** <2023.02.12>
-- **MediaInfo** <v22.12>
-- **Python-embed-amd64** <3.10.9>
-- **VapourSynth-portable** <git-R_61>
-- **yt-dlp** <git-2023.01.06>
-- **ModernX** <git-0.6.0>
-- **Thumbfast** <git-2022.11.16>
+- **libmpv-2-x86_64** [<2023.02.12>](https://sourceforge.net/projects/mpv-player-windows/files/libmpv)
+- **MediaInfo** [<v22.12>](https://mediaarea.net/en/MediaInfo/Download/Windows)
+- **Python-embed-amd64** [<3.10.9>](https://www.python.org/downloads)
+- **VapourSynth-portable** [<git-R_61>](https://github.com/vapoursynth/vapoursynth/releases)
+- **yt-dlp** [<git-2023.01.06>](https://github.com/yt-dlp/yt-dlp/releases)
+- **ModernX** [<git-0.6.0>](https://github.com/cyl0/ModernX/releases)
+- **Thumbfast** [<git-2022.11.16>](https://github.com/po5/thumbfast)
 
 # 安装
 - 安装 .NET framework 4.8 运行库

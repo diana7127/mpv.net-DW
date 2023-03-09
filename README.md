@@ -76,13 +76,13 @@ mpv.net_CM的💗DW版本💗，定制了播放界面、右键菜单、缩略图
 ![预览图06](https://user-images.githubusercontent.com/125502871/220144657-50817726-37f3-41c5-87be-9e50ca5a4cca.jpg)
 
 # 更新
-- libmpv-2-x86_64 [<2023.02.12>](https://sourceforge.net/projects/mpv-player-windows/files/libmpv)
+- libmpv-2-x86_64 [<shinchiro_20230212>](https://sourceforge.net/projects/mpv-player-windows/files/libmpv)
 - MediaInfo [<v22.12>](https://mediaarea.net/en/MediaInfo/Download/Windows)
 - Python-embed-amd64 [<3.10.9>](https://www.python.org/downloads)
 - VapourSynth-portable [<git_R_61>](https://github.com/vapoursynth/vapoursynth/releases)
 - yt-dlp [<git_2023.01.06>](https://github.com/yt-dlp/yt-dlp/releases)
 - ModernX [<git_0.6.0>](https://github.com/cyl0/ModernX/releases)
-- Thumbfast [<git_2022.11.16>](https://github.com/po5/thumbfast)
+- Thumbfast [<git_20221116>](https://github.com/po5/thumbfast)
 - 视频滤镜与着色器 [<git_mpv-lazy-2023V2>](https://github.com/hooke007/MPV_lazy/releases)
 
 # 安装

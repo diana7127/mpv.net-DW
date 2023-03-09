@@ -49,7 +49,7 @@ mpv.net_CM的💗DW版本💗，定制了播放界面、右键菜单、缩略图
 - 菜单条目+初始快捷键修改   
 - 集成Python+VapourSynth便携式组件   
 - 预设脚本与着色器   
-- 操作习惯移植自 mpv-lazy   
+- 操作习惯移植自mpv-lazy   
 - 有更友好的界面操作性
 
 🔘mpv.net：

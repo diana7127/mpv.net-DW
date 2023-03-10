@@ -86,7 +86,7 @@ _引用自hooke007/mpv.net_CM_
 # 安装
 _不可使用覆盖旧版文件的形式进行更新，请提前做好个人配置的备份_
 
-- 安装.NET framework 4.8 运行库
+- 安装.NET framework 4.8运行库
 - 删除原有mpv.net-DW
 - 下载并安装最新版mpv.net-DW
 - 运行mpvnet.exe

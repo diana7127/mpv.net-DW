@@ -86,9 +86,11 @@ mpv.net_CM的💗DW版本💗，定制了播放界面、右键菜单、缩略图
 - 视频滤镜与着色器 [<git_mpv-lazy-2023V2>](https://github.com/hooke007/MPV_lazy/releases)
 
 # 安装
-- 安装 .NET framework 4.8 运行库
-- 下载并安装 mpv.net-DW
-- 运行 mpvnet.exe
+_不可使用覆盖旧版文件的形式进行更新，请提前做好个人配置的备份_
+- 安装.NET framework 4.8 运行库
+- 删除原有mpv.net-DW
+- 下载并安装最新版mpv.net-DW
+- 运行mpvnet.exe
 
 # 下载
 见网页端右侧Releases或移动端下方Releases

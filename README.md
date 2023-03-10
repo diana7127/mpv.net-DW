@@ -61,15 +61,15 @@ _引用自hooke007/mpv.net_CM_
 - 音量、窗口尺寸的退出时记忆 
 
 # 预览
-### ❇️播放预览  
+### ⭕播放预览  
 ![预览图01](https://user-images.githubusercontent.com/125502871/220343125-74366dd1-af9e-41a3-81e4-f1f06328a881.jpg)
 
-### ❇️右键菜单  
+### ⭕右键菜单  
 ![预览图02](https://user-images.githubusercontent.com/125502871/221334160-ce3310fa-b8bb-4258-a76c-992cd1467f39.jpg)
 ![预览图03](https://user-images.githubusercontent.com/125502871/221334168-57b9a765-2a77-4be5-ac54-e0f5abe7b82c.jpg)
 ![预览图04](https://user-images.githubusercontent.com/125502871/222751934-2ffc0619-381e-454c-93c7-82fd8b005300.jpg)
 
-### ❇️设置界面  
+### ⭕设置界面  
 ![预览图05](https://user-images.githubusercontent.com/125502871/220125827-6a33ee6d-14a9-40fa-ae0c-733f6760f7b4.jpg)
 ![预览图06](https://user-images.githubusercontent.com/125502871/220144657-50817726-37f3-41c5-87be-9e50ca5a4cca.jpg)
 

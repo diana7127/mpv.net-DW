@@ -74,17 +74,19 @@ _引用自hooke007/mpv.net_CM_
 ![预览图06](https://user-images.githubusercontent.com/125502871/220144657-50817726-37f3-41c5-87be-9e50ca5a4cca.jpg)
 
 # 更新
-- libmpv-2-x86_64 [<shinchiro_20230212>](https://sourceforge.net/projects/mpv-player-windows/files/libmpv)
+- libmpv-2-x86_64 [<shinchiro_20230312>](https://sourceforge.net/projects/mpv-player-windows/files/libmpv)
 - MediaInfo [<v22.12>](https://mediaarea.net/en/MediaInfo/Download/Windows)
 - Python-embed-amd64 [<3.10.9>](https://www.python.org/downloads)
 - VapourSynth-portable [<git_R_61>](https://github.com/vapoursynth/vapoursynth/releases)
-- yt-dlp [<git_2023.01.06>](https://github.com/yt-dlp/yt-dlp/releases)
+- yt-dlp [<git_2023.03.04>](https://github.com/yt-dlp/yt-dlp/releases)
 - ModernX [<git_0.6.0>](https://github.com/cyl0/ModernX/releases)
 - Thumbfast [<git_20221116>](https://github.com/po5/thumbfast)
 - 视频滤镜与着色器 [<git_mpv-lazy-2023V2>](https://github.com/hooke007/MPV_lazy/releases)
 
 # 安装
 _不可使用覆盖旧版文件的形式进行更新，请提前做好个人配置的备份_
+
+_如需使用profile中的srt字幕预设，请下载安装[得意黑](https://github.com/atelier-anchor/smiley-sans)开源字体_
 
 - 安装.NET framework 4.8运行库
 - 删除原有mpv.net-DW

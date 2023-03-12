@@ -87,7 +87,7 @@ _引用自hooke007/mpv.net_CM_
 # 安装
 _不可使用覆盖旧版文件的形式进行更新，请提前做好个人配置的备份_
 
-_如需使用默认的srt字幕字体，请下载并安装[得意黑](https://github.com/atelier-anchor/smiley-sans)开源简体中字_
+_如需使用默认的srt字幕字体，请下载并安装[得意黑](https://github.com/atelier-anchor/smiley-sans)开源简体中字，（不安装并不影响正常显示）_
 
 - 下载并安装[.NET framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)运行库
 - 删除原有mpv.net-DW

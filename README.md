@@ -1,9 +1,19 @@
-# mpv.net-DW
-mpv.net_CM的💗DW版本💗，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
+<p align="center">
+<img src="/mpvnet.png" height="150">
+</p>
 
-![GitHub All Releases](https://img.shields.io/github/downloads/diana7127/mpv.net-DW/total.svg?style=flat-square&color=EA6980&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/diana7127/mpv.net-DW.svg?style=flat-square&color=FFF1F4&logo=github)
-![GitHub tag (latest by date)](https://img.shields.io/github/tag-date/diana7127/mpv.net-DW.svg?style=flat-square&color=2988AE&logo=github)
+<h1 align="center"> mpv.net-DW </h1>
+
+<h3 align="center"> mpv.net_CM的💗DW版本💗 </h3>
+
+<h3 align="center"> 定制了播放界面、右键菜单、缩略图、视频滤镜和着色器 </h3>
+
+<p align="center">
+<img src="https://img.shields.io/github/downloads/diana7127/mpv.net-DW/total.svg?label=Downloads&style=flat-square&color=EA6980&logo=github">
+<img src="https://img.shields.io/github/stars/diana7127/mpv.net-DW.svg?label=Stars&style=flat-square&color=FBDBE0&logo=github">
+<img src="https://img.shields.io/github/v/release/diana7127/mpv.net-DW?label=Latest%20release&style=flat-square&color=AEDDF1&logo=github">
+<img src="https://img.shields.io/badge/Support-Windows%20x64-2988AE?style=flat-square&logo=Windows">
+</p>
 
 # 简介
 🔳mpv.net-DW：mpv.net_CM的个人定制版

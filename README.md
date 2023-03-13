@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://img.shields.io/github/downloads/diana7127/mpv.net-DW/total.svg?label=Downloads&style=flat-square&color=EA6980&logo=github">
 <img src="https://img.shields.io/github/stars/diana7127/mpv.net-DW.svg?label=Stars&style=flat-square&color=FBDBE0&logo=github">
-<img src="https://img.shields.io/github/v/release/diana7127/mpv.net-DW?label=Latest%20release&style=flat-square&color=AEDDF1&logo=github">
+<img src="https://img.shields.io/github/v/release/diana7127/mpv.net-DW?label=Latest%20Release&style=flat-square&color=AEDDF1&logo=github">
 <img src="https://img.shields.io/badge/Support-Windows%20x64-2988AE?style=flat-square&logo=Windows">
 </p>
 

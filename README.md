@@ -80,7 +80,7 @@
 ![预览图01](https://user-images.githubusercontent.com/125502871/220343125-74366dd1-af9e-41a3-81e4-f1f06328a881.jpg)
 
 ### ⭕srt字幕预览
-![预览图02](https://user-images.githubusercontent.com/125502871/224596468-7a655484-f03d-4b8f-a4af-ef5cd7f3e6e6.jpg)
+![预览图02](https://user-images.githubusercontent.com/125502871/224633362-a53dc9d0-aee6-4802-8213-daa1383febc9.jpg)
 
 ### ⭕右键菜单
 ![预览图03](https://user-images.githubusercontent.com/125502871/221334160-ce3310fa-b8bb-4258-a76c-992cd1467f39.jpg)

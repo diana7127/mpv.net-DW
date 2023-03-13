@@ -1,6 +1,10 @@
 # mpv.net-DW
 mpv.net_CM的💗DW版本💗，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
 
+![GitHub All Releases](https://img.shields.io/github/downloads/diana7127/mpv.net-DW/total.svg?style=flat-square&color=EA6980&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/diana7127/mpv.net-DW.svg?style=flat-square&color=FFF1F4&logo=github)
+![GitHub tag (latest by date)](https://img.shields.io/github/tag-date/diana7127/mpv.net-DW.svg?style=flat-square&color=2988AE&logo=github)
+
 # 简介
 🔳mpv.net-DW：mpv.net_CM的个人定制版
 

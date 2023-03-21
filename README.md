@@ -107,7 +107,7 @@
 
 > 如需使用默认的srt字幕字体，请下载并安装[得意黑](https://github.com/atelier-anchor/smiley-sans)开源简体中字（不安装并不影响正常显示）
 
-- 下载并安装[.NET framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)运行库
+- 下载并安装[.NET framework 4.8](https://support.microsoft.com/zh-cn/topic/%E9%80%82%E7%94%A8%E4%BA%8E-windows-%E7%9A%84-microsoft-net-framework-4-8-%E8%84%B1%E6%9C%BA%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-9d23f658-3b97-68ab-d013-aa3c3e7495e0)运行库（win10 1903及之后版本的系统内已集成）
 - 删除原有mpv.net-DW
 - 下载并安装最新版mpv.net-DW
 - 运行mpvnet.exe

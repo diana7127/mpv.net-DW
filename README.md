@@ -6,7 +6,7 @@
 
 <h3 align="center"> mpv.net_CM的💗DW版本💗 </h3>
 
-<h4 align="center"> 定制了播放界面、右键菜单、缩略图、视频滤镜和着色器 </h4>
+<h3 align="center"> 定制了播放界面、右键菜单、缩略图、视频滤镜和着色器 </h3>
 
 <p align="center">
 <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fdiana7127%2Fmpv.net-DW&label=Hello%20Visitors&countColor=%23e7818b">

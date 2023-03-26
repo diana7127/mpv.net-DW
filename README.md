@@ -9,10 +9,11 @@
 <h3 align="center"> 定制了播放界面、右键菜单、缩略图、视频滤镜和着色器 </h3>
 
 <p align="center">
-<img src="https://img.shields.io/github/downloads/diana7127/mpv.net-DW/total?label=Downloads&style=flat-square&color=e94556&logo=github">
-<img src="https://img.shields.io/github/stars/diana7127/mpv.net-DW?label=Stars&style=flat-square&color=e7818b&logo=github">
-<img src="https://img.shields.io/github/v/release/diana7127/mpv.net-DW?label=Latest%20Release&style=flat-square&color=8cc7ff&logo=github">
-<img src="https://img.shields.io/badge/Support-Windows%20x64-0094ff.svg?style=flat-square&logo=Windows">
+<img src="https://img.shields.io/github/downloads/diana7127/mpv.net-DW/total?&style=for-the-badge&color=e94556&logo=github">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdiana7127%2Fmpv.net-DW&label=Hello%20Visitors&countColor=%23e7818b">
+<img src="https://img.shields.io/github/stars/diana7127/mpv.net-DW?&style=for-the-badge&color=baa4c5">
+<img src="https://img.shields.io/github/v/release/diana7127/mpv.net-DW?label=Latest%20Release&&style=for-the-badge&color=8cc7ff">
+<img src="https://img.shields.io/badge/Support-Windows%20x64-0094ff.svg?style=for-the-badge&logo=Windows">
 </p>
 
 # 简介

@@ -16,7 +16,7 @@
 <p align="center">
 <img src="https://img.shields.io/github/downloads/diana7127/mpv.net-DW/total?&style=for-the-badge&color=%23e94556&logo=github" height="25">
 <img src="https://img.shields.io/github/stars/diana7127/mpv.net-DW?&style=for-the-badge&color=%23756dab&logo=readme&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Support-Windows%20x64-%230094ff.svg?style=for-the-badge&logo=Windows" height="25">
+<img src="https://img.shields.io/badge/Support-Windows%20x64-%230094ff?style=for-the-badge&logo=Windows" height="25">
 </p>
 
 # 简介

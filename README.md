@@ -9,14 +9,14 @@
 <h3 align="center"> 定制了播放界面、右键菜单、缩略图、视频滤镜和着色器 </h3>
 
 <p align="center">
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdiana7127%2Fmpv.net-DW"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fdiana7127%2Fmpv.net-DW&label=Hello%20Visitors&countColor=%23e7818b"></a>
-<a href="https://github.com/diana7127/mpv.net-DW/releases"><img src="https://img.shields.io/github/v/release/diana7127/mpv.net-DW?label=Latest%20Release&&style=for-the-badge&color=%238cc7ff"></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdiana7127%2Fmpv.net-DW"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fdiana7127%2Fmpv.net-DW&label=Hello%20Visitors&countColor=%23e7818b" height="25"></a>
+<a href="https://github.com/diana7127/mpv.net-DW/releases"><img src="https://img.shields.io/github/v/release/diana7127/mpv.net-DW?label=Latest%20Release&&style=for-the-badge&color=%238cc7ff" height="25"></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/downloads/diana7127/mpv.net-DW/total?&style=for-the-badge&color=%23e94556&logo=github">
-<img src="https://img.shields.io/github/stars/diana7127/mpv.net-DW?&style=for-the-badge&color=%23756dab&logo=readme&logoColor=white">
-<img src="https://img.shields.io/badge/Support-Windows%20x64-%230094ff.svg?style=for-the-badge&logo=Windows">
+<img src="https://img.shields.io/github/downloads/diana7127/mpv.net-DW/total?&style=for-the-badge&color=%23e94556&logo=github" height="25">
+<img src="https://img.shields.io/github/stars/diana7127/mpv.net-DW?&style=for-the-badge&color=%23756dab&logo=readme&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Support-Windows%20x64-%230094ff.svg?style=for-the-badge&logo=Windows" height="25">
 </p>
 
 # 简介

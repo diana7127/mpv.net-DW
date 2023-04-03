@@ -144,7 +144,7 @@
 ### 📖mpv.conf编辑器
 > 打开右键菜单`mpv设置`即为`mpv.conf编辑器`，可保存个人设置
 
-- 如需启动时自动挂载视频滤镜或着色器，可在`mpv.conf编辑器`的`高级`列表里，将所需自动挂载的视频滤镜或着色器填入`vf`（视频滤镜）或`glsl-shaders`（着色器）的选项框；示例：在`vf`选项框中填入`~~/vs/mvtools_std.vpy`;在`glsl-shaders`选项框中填入`~~/shaders/Anime4K_Restore_CNN_M.glsl`
+- 如需启动时自动挂载视频滤镜或着色器，可在`mpv.conf编辑器`的`高级`列表里，将其路径填入`vf`（视频滤镜）或`glsl-shaders`（着色器）的选项框中；示例：在`vf`选项框中填入`~~/vs/mvtools_std.vpy`;在`glsl-shaders`选项框中填入`~~/shaders/Anime4K_Restore_CNN_M.glsl`
 
 # 更新
 - libmpv-2-x86_64 [<shinchiro_20230312>](https://sourceforge.net/projects/mpv-player-windows/files/libmpv)

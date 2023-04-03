@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Support-Windows%20x64-%230094ff?style=for-the-badge&logo=Windows" height="25">
 </p>
 
-# 菜单
+# 目录
 - [🔳 简介](#简介)
 - [☑️ DW版本特点](#dw版本特点)
 - [🔘 上游版本特点](#上游版本特点)

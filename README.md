@@ -20,7 +20,7 @@
 </p>
 
 ## 目录
-- [🔘 简介](#-简介-)
+- [📊 简介](#-简介-)
 - [🔳 DW版本特点](#-dw版本特点-)
 - [🔲 上游版本特点](#-上游版本特点-)
 - [📺 界面预览](#-界面预览-)
@@ -30,7 +30,7 @@
 - [🔗 下载](#-下载-)
 - [💌 鸣谢](#-鸣谢-)
 
-## 🔘 简介 [🔝](#目录)
+## 📊 简介 [🔝](#目录)
 🔳mpv.net-DW：mpv.net_CM的个人定制版
 
 🔲mpv.net_CM：mpv.net的中文分支模组
@@ -72,7 +72,7 @@
 ## 🔲 上游版本特点 [🔝](#目录)
 > 引用自hooke007/mpv.net_CM
 
-### 🔖mpv.net_CM：
+### 🔘mpv.net_CM：
 - 界面汉化
 - 编辑器选项修改
 - 菜单条目+初始快捷键修改
@@ -81,7 +81,7 @@
 - 操作习惯移植自mpv-lazy
 - 有更友好的界面操作性
 
-### 🔖mpv.net：
+### 🔘mpv.net：
 - 几乎所有mpv的功能都可用，除去一些窗口行为
 - 兼容几乎所有mpv脚本/着色器，除去部分具有特定依赖的项目
 - 单实例/多实例切换
@@ -91,24 +91,24 @@
 - 音量、窗口尺寸的退出时记忆
 
 ## 📺 界面预览 [🔝](#目录)
-### 🔖osc显示预览
+### 🔘osc显示预览
 ![预览图01](https://user-images.githubusercontent.com/125502871/220343125-74366dd1-af9e-41a3-81e4-f1f06328a881.jpg)
 
-### 🔖srt字幕预览
+### 🔘srt字幕预览
 ![预览图02](https://user-images.githubusercontent.com/125502871/224633362-a53dc9d0-aee6-4802-8213-daa1383febc9.jpg)
 
-### 🔖右键菜单
+### 🔘右键菜单
 ![预览图03](https://user-images.githubusercontent.com/125502871/221334160-ce3310fa-b8bb-4258-a76c-992cd1467f39.jpg)
 ![预览图04](https://user-images.githubusercontent.com/125502871/221334168-57b9a765-2a77-4be5-ac54-e0f5abe7b82c.jpg)
 ![预览图05](https://user-images.githubusercontent.com/125502871/222751934-2ffc0619-381e-454c-93c7-82fd8b005300.jpg)
 
-### 🔖设置选项
+### 🔘设置选项
 ![预览图06](https://user-images.githubusercontent.com/125502871/220125827-6a33ee6d-14a9-40fa-ae0c-733f6760f7b4.jpg)
 ![预览图07](https://user-images.githubusercontent.com/125502871/220144657-50817726-37f3-41c5-87be-9e50ca5a4cca.jpg)
 ![预览图08](https://user-images.githubusercontent.com/125502871/224598109-f36722d6-ebca-4d44-9113-63fadb079be3.jpg)
 
 ## 📖 使用说明 [🔝](#目录)
-### 🔖OSC
+### 🔘OSC
 ⭕进度条  
 - 鼠标左键：定位到选定的位置
 - 鼠标右键：定位到所选章节的开头
@@ -136,12 +136,12 @@
 ⭕持续时间（右侧）  
 - 鼠标左键：切换为剩余时间，而不是总时间
 
-### 🔖右键菜单
+### 🔘右键菜单
 > 右键菜单中的所有选择仅限当前窗口，窗口关闭后不会保存设置，如需保存个人设置，请前往`mpv设置`界面更改
 
 - 根据不同视频，可选择不同的视频滤镜、着色器以及profile（具体说明请查阅[第三方着色器介绍](https://hooke007.github.io/unofficial/mpv_shaders.html)）
 
-### 🔖设置选项
+### 🔘设置选项
 > 打开右键菜单`mpv设置`即为`mpv.conf编辑器`，可保存个人设置
 
 - 如需启动时自动挂载视频滤镜或着色器，可在`mpv.conf编辑器`的`高级`列表里，将其路径填入`vf`（视频滤镜）或`glsl-shaders`（着色器）的选项框中；示例：在`vf`选项框中填入`~~/vs/mvtools_std.vpy`，在`glsl-shaders`选项框中填入`~~/shaders/Anime4K_Restore_CNN_M.glsl`

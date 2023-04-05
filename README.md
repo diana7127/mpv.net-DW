@@ -147,14 +147,14 @@
 - 如需启动时自动挂载视频滤镜或着色器，可在`mpv.conf编辑器`的`高级`列表里，将其路径填入`vf`（视频滤镜）或`glsl-shaders`（着色器）的选项框中；示例：在`vf`选项框中填入`~~/vs/mvtools_std.vpy`，在`glsl-shaders`选项框中填入`~~/shaders/Anime4K_Restore_CNN_M.glsl`
 
 ## 🧰 更新 [🔝](#目录)
-- libmpv-2-x86_64 [<shinchiro_20230312>](https://sourceforge.net/projects/mpv-player-windows/files/libmpv)
-- MediaInfo [<v22.12>](https://mediaarea.net/en/MediaInfo/Download/Windows)
-- Python-embed-amd64 [<3.10.9>](https://www.python.org/downloads)
-- VapourSynth-portable [<git_R_61>](https://github.com/vapoursynth/vapoursynth/releases)
+- libmpv-2-x86_64 [<shinchiro_20230402>](https://sourceforge.net/projects/mpv-player-windows/files/libmpv)
+- MediaInfo [<v23.03>](https://mediaarea.net/en/MediaInfo/Download/Windows)
+- Python-embed-amd64 [<3.11.2>](https://www.python.org/downloads)
+- VapourSynth-portable [<git_R_62>](https://github.com/vapoursynth/vapoursynth/releases)
 - yt-dlp [<git_2023.03.04>](https://github.com/yt-dlp/yt-dlp/releases)
 - ModernX [<git_0.6.0>](https://github.com/cyl0/ModernX/releases)
 - Thumbfast [<git_20221116>](https://github.com/po5/thumbfast)
-- 视频滤镜与着色器 [<git_mpv-lazy-2023V2>](https://github.com/hooke007/MPV_lazy/releases)
+- 视频滤镜与着色器 [<git_mpv-lazy-2023V3>](https://github.com/hooke007/MPV_lazy/releases)
 
 ## 🔑 安装 [🔝](#目录)
 > 不可使用覆盖旧版文件的形式进行更新，请提前做好个人配置的备份

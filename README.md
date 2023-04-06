@@ -151,7 +151,7 @@
   > 示例：在`vf`选项框中填入`~~/vs/mvtools_std.vpy`，在`glsl-shaders`选项框中填入`~~/shaders/Anime4K_Restore_CNN_M.glsl`
 
 ## 🧰 更新 [🔝](#目录)
-- mpv-dev-x86_64 [<MPV_OWN 2023-04-02 09:14>](https://github.com/dyphire/mpv-winbuild/releases)
+- mpv-dev-x86_64 [<git_MPV_OWN 2023-04-02>](https://github.com/dyphire/mpv-winbuild/releases)
 - MediaInfo [<v23.03>](https://mediaarea.net/en/MediaInfo/Download/Windows)
 - Python-embed-amd64 [<3.11.2>](https://www.python.org/downloads)
 - VapourSynth-portable [<git_R_62>](https://github.com/vapoursynth/vapoursynth/releases)

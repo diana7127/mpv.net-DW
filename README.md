@@ -102,7 +102,7 @@
 
 ### 🔘右键菜单
 ![预览图03](https://user-images.githubusercontent.com/125502871/221334160-ce3310fa-b8bb-4258-a76c-992cd1467f39.jpg)
-![预览图04](https://user-images.githubusercontent.com/125502871/221334168-57b9a765-2a77-4be5-ac54-e0f5abe7b82c.jpg)
+![预览图04](https://user-images.githubusercontent.com/125502871/230541653-8119588e-d46c-4f2e-9eef-9c1cf917db3f.jpg)
 ![预览图05](https://user-images.githubusercontent.com/125502871/222751934-2ffc0619-381e-454c-93c7-82fd8b005300.jpg)
 
 ### 🔘设置选项

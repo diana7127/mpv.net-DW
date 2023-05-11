@@ -152,7 +152,7 @@
 
 ### 🔘mpv使用手册
 > Copyright © 2022, hooke007
-- [mpv官方手册汉化](https://hooke007.github.io/#mpv)
+- [mpv官方手册汉化版](https://hooke007.github.io/#mpv)
 - [mpv非官方使用引导](https://hooke007.github.io/#id1)
 
 ## 🧰 更新 [🔝](#目录)

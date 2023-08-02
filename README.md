@@ -40,7 +40,7 @@
 ## 🔲 DW版本特点 [🔝](#目录)
 > 基于上游，做出以下个人定制款
 
-⭕修改播放界面为ModernX（cyl0/ModernX）
+⭕修改播放界面为ModernX（zydezu/ModernX）
 
 ⭕集成缩略图引擎thumbfast（po5/thumbfast）
 
@@ -55,6 +55,7 @@
 		
 ⭕修改部分mpv设置  
 - 默认硬件解码为auto-copy
+- 默认开启列表循环
 - 默认OSD显示为建议方案
 - 默认音量为100
 - 默认开启interpolation
@@ -156,14 +157,14 @@
 - [mpv非官方使用引导](https://hooke007.github.io/#id1)
 
 ## 🧰 更新 [🔝](#目录)
-- mpv-dev-x86_64 [<git_MPV_OWN 2023-04-02>](https://github.com/dyphire/mpv-winbuild/releases)
-- MediaInfo [<v23.03>](https://mediaarea.net/en/MediaInfo/Download/Windows)
-- Python-embed-amd64 [<3.11.2>](https://www.python.org/downloads)
-- VapourSynth-portable [<git_R_62>](https://github.com/vapoursynth/vapoursynth/releases)
-- yt-dlp [<git_2023.03.04>](https://github.com/yt-dlp/yt-dlp/releases)
-- ModernX [<git_0.6.0>](https://github.com/cyl0/ModernX/releases)
-- Thumbfast [<git_20221116>](https://github.com/po5/thumbfast)
-- 视频滤镜与着色器 [<git_mpv-lazy-2023V3>](https://github.com/hooke007/MPV_lazy/releases)
+- mpv-dev-x86_64 [<git_MPV_OWN 2023-07-02>](https://github.com/dyphire/mpv-winbuild/releases)
+- MediaInfo [<v23.07>](https://mediaarea.net/en/MediaInfo/Download/Windows)
+- yt-dlp [<git_2023.07.06>](https://github.com/yt-dlp/yt-dlp/releases)
+- ModernX [<git_v0.1.5>](https://github.com/zydezu/ModernX/releases)
+- Thumbfast [<git_20230608>](https://github.com/po5/thumbfast)
+- Python-embed-amd64 [<3.11.4>](https://www.python.org/downloads)
+- VapourSynth-portable [<git_R_63>](https://github.com/vapoursynth/vapoursynth/releases)
+- 视频滤镜与着色器 [<git_mpv-lazy-2023V5>](https://github.com/hooke007/MPV_lazy/releases)
 
 ## 🔑 安装 [🔝](#目录)
 > 不可使用覆盖旧版文件的形式进行更新，请提前做好个人配置的备份

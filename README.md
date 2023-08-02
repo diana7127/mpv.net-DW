@@ -157,6 +157,7 @@
 - [mpv非官方使用引导](https://hooke007.github.io/#id1)
 
 ## 🧰 更新 [🔝](#目录)
+> 更新频率：季更/半年更
 - mpv-dev-x86_64 [<git_MPV_OWN 2023-07-02>](https://github.com/dyphire/mpv-winbuild/releases)
 - MediaInfo [<v23.07>](https://mediaarea.net/en/MediaInfo/Download/Windows)
 - yt-dlp [<git_2023.07.06>](https://github.com/yt-dlp/yt-dlp/releases)

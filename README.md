@@ -154,16 +154,14 @@
 - 如需启动时自动挂载视频滤镜或着色器，可在`mpv.conf编辑器`的`高级`列表里，将其路径填入`vf`（视频滤镜）或`glsl-shaders`（着色器）的选项框中
 - 示例：在`vf`选项框中填入`~~/vs/mvtools_std.vpy`，在`glsl-shaders`选项框中填入`~~/shaders/Anime4K_Restore_CNN_M.glsl`
 
-### 🔘mpv完整说明
+### 🔘进阶说明
 ⭕mpv-player
 - [mpv官方手册](https://mpv.io/manual/stable)
-
-⭕hooke007
 - [mpv官方手册汉化版](https://hooke007.github.io/#mpv)
 - [mpv非官方使用引导](https://hooke007.github.io/#id1)
-- [第三方着色器介绍](https://hooke007.github.io/unofficial/mpv_shaders.html)
 
-⭕zydezu
+⭕其他
+- [第三方着色器介绍](https://hooke007.github.io/unofficial/mpv_shaders.html)
 - [osc-ModernX配置说明](https://github.com/zydezu/ModernX#configuration)
 
 ## 🧰 更新 [🔝](#目录)

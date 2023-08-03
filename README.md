@@ -152,9 +152,15 @@
   > 示例：在`vf`选项框中填入`~~/vs/mvtools_std.vpy`，在`glsl-shaders`选项框中填入`~~/shaders/Anime4K_Restore_CNN_M.glsl`
 
 ### 🔘mpv完整说明
-> Copyright © 2022, hooke007
+⭕mpv-player
+- [mpv官方手册](https://mpv.io/manual/stable)
+
+⭕hooke007
 - [mpv官方手册汉化版](https://hooke007.github.io/#mpv)
 - [mpv非官方使用引导](https://hooke007.github.io/#id1)
+
+⭕zydezu
+- [osc-ModernX配置说明](https://github.com/zydezu/ModernX#configuration)
 
 ## 🧰 更新 [🔝](#目录)
 > 更新频率：季更/半年更
@@ -181,4 +187,7 @@
 见网页端右侧Releases或移动端下方Releases
 
 ## 💌 鸣谢 [🔝](#目录)
-感谢hooke007编写的mpv.net_CM，和各项说明；感谢cyl0编写的ModernX osc；感谢po5编写的thumbfast；感谢tsl0922编写的ImPlay，使thumbfast可以在mpvnet上使用
+- hooke007/mpv.net_CM, MPV_lazy
+- zydezu/ModernX
+- po5/thumbfast
+- tsl0922/ImPlay

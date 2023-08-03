@@ -161,6 +161,7 @@
 - [mpv非官方使用引导](https://hooke007.github.io/#id1)
 
 ⭕其他
+- [VS滤镜介绍](https://github.com/hooke007/MPV_lazy/wiki/3_K7sfunc)
 - [第三方着色器介绍](https://hooke007.github.io/unofficial/mpv_shaders.html)
 - [osc-ModernX配置说明](https://github.com/zydezu/ModernX#configuration)
 

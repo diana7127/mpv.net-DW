@@ -169,7 +169,7 @@
 - mpv-dev-x86_64_v3 [<git_MPV_OWN 2023-07-02>](https://github.com/dyphire/mpv-winbuild/releases)
 - MediaInfo [<v23.07>](https://mediaarea.net/en/MediaInfo/Download/Windows)
 - yt-dlp [<git_2023.07.06>](https://github.com/yt-dlp/yt-dlp/releases)
-- ModernX [<git_v0.1.5>](https://github.com/zydezu/ModernX/releases)
+- ModernX [<git_v0.1.7>](https://github.com/zydezu/ModernX/releases)
 - Thumbfast [<git_20230608>](https://github.com/po5/thumbfast)
 - Python-embed-amd64 [<3.11.4>](https://www.python.org/downloads)
 - VapourSynth-portable [<git_R_63>](https://github.com/vapoursynth/vapoursynth/releases)

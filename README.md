@@ -44,14 +44,16 @@
 
 ⭕集成缩略图引擎thumbfast（po5/thumbfast）
 
-⭕集成旧版懒人包里的SVP补帧插件（hooke007/MPV_lazy）
+⭕集成SVP补帧滤镜（hooke007/MPV_lazy）
+
+⭕集成2x_AnimeJaNai V2和HFA2kCompact超分滤镜（hooke007/MPV_lazy）
+
+⭕支持次字幕的弹幕/双语显示模式（默认为弹幕模式）
 
 ⭕修改右键菜单  
 - 调整排列顺序
-- 增加次字幕的开/关/切换选项
-- 支持次字幕的弹幕/双语显示模式（默认为弹幕模式）
 - 修改部分翻译（参考potplayer）
-- 修改预设组的vs滤镜和着色器方案，兼容更多显卡
+- 更多vs滤镜和着色器方案选择，兼容更多显卡
 		
 ⭕修改部分mpv设置  
 - 默认硬件解码为auto-copy
@@ -169,7 +171,7 @@
 - mpv-dev-x86_64_v3 [<git_MPV_OWN 2023-07-02>](https://github.com/dyphire/mpv-winbuild/releases)
 - MediaInfo [<v23.07>](https://mediaarea.net/en/MediaInfo/Download/Windows)
 - yt-dlp [<git_2023.07.06>](https://github.com/yt-dlp/yt-dlp/releases)
-- ModernX [<git_v0.1.7>](https://github.com/zydezu/ModernX/releases)
+- ModernX [<git_v0.1.8>](https://github.com/zydezu/ModernX/releases)
 - Thumbfast [<git_20230608>](https://github.com/po5/thumbfast)
 - Python-embed-amd64 [<3.11.4>](https://www.python.org/downloads)
 - VapourSynth-portable [<git_R_63>](https://github.com/vapoursynth/vapoursynth/releases)

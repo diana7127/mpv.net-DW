@@ -153,7 +153,7 @@
 
 ⭕自动挂载滤镜/着色器
 - 如需启动时自动挂载视频滤镜或着色器，可在`mpv.conf编辑器`的`高级`列表里，将其路径填入`vf`（视频滤镜）或`glsl-shaders`（着色器）的选项框中
-- 示例：在`vf`选项框中填入`vapoursynth=~~/vs/MEMC_MVT_LQ.vpy`或`fps=fps=60/1.001`，在`glsl-shaders`选项框中填入`~~/shaders/Anime4K_Clamp_Highlights.glsl;~~/shaders/Anime4K_Restore_CNN_M.glsl`
+- 示例：在`vf`选项框中填入`vapoursynth=~~/vs/MEMC_MVT_STD.vpy`或`fps=fps=60/1.001`，在`glsl-shaders`选项框中填入`~~/shaders/Anime4K_Clamp_Highlights.glsl;~~/shaders/Anime4K_Restore_CNN_M.glsl`
 
 ### 🔘进阶说明
 ⭕mpv-player

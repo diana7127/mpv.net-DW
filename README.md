@@ -48,7 +48,7 @@
 
 ⭕集成2x_AnimeJaNai V2和HFA2kCompact超分滤镜（hooke007/MPV_lazy）
 
-⭕支持次字幕的弹幕/双语显示模式（默认为弹幕模式）
+⭕支持多种渲染样式显示次字幕
 
 ⭕修改右键菜单  
 - 调整排列顺序
@@ -144,9 +144,8 @@
 ### 🔘右键菜单
 > 右键菜单中的所有选择仅限当前窗口，窗口关闭后不会保存设置，如需保存个人设置，请前往`mpv设置`界面更改
 
-⭕次字幕功能
-- 挂载次字幕时，先根据字幕类型选择显示模式，再打开次字幕
-- 示例：默认为弹幕模式，如需挂载**弹幕**，不需额外操作；如需挂载**双语字幕**（例如主字幕为中文，想要添加英文次字幕），`CTRL+e`或右键菜单选择`切换 次字幕弹幕/双语模式`，再使用快捷键`e`打开次字幕
+⭕超分滤镜
+- 2x_AnimeJaNai V2L1要求显卡RTX3060及以上；HFA2kCompact要求显卡RTX4080及以上
 
 ### 🔘设置选项
 > 打开右键菜单`mpv设置`即为`mpv.conf编辑器`，可保存个人设置
@@ -161,26 +160,24 @@
 - [mpv官方手册汉化版](https://hooke007.github.io/#mpv)
 - [mpv非官方使用引导](https://hooke007.github.io/#id1)
 
-⭕其他
+⭕其他组件
 - [VS滤镜介绍](https://github.com/hooke007/MPV_lazy/wiki/3_K7sfunc)
 - [第三方着色器介绍](https://hooke007.github.io/unofficial/mpv_shaders.html)
 - [osc-ModernX配置说明](https://github.com/zydezu/ModernX#configuration)
 
 ## 🧰 更新 [🔝](#目录)
 > 更新频率：季更/半年更
-- mpv-dev-x86_64_v3 [<git_MPV_OWN 2023-07-02>](https://github.com/dyphire/mpv-winbuild/releases)
-- MediaInfo [<v23.07>](https://mediaarea.net/en/MediaInfo/Download/Windows)
-- yt-dlp [<git_2023.07.06>](https://github.com/yt-dlp/yt-dlp/releases)
-- ModernX [<git_v0.1.8>](https://github.com/zydezu/ModernX/releases)
-- Thumbfast [<git_20230608>](https://github.com/po5/thumbfast)
-- Python-embed-amd64 [<3.11.4>](https://www.python.org/downloads)
-- VapourSynth-portable [<git_R_63>](https://github.com/vapoursynth/vapoursynth/releases)
-- 视频滤镜与着色器 [<git_mpv-lazy-2023V5>](https://github.com/hooke007/MPV_lazy/releases)
+- mpv-dev-x86_64-v3 [<shinchiro_20240121>](https://sourceforge.net/projects/mpv-player-windows/files/libmpv/)
+- MediaInfo [<v23.11>](https://mediaarea.net/en/MediaInfo/Download/Windows)
+- yt-dlp [<git_2023.12.30>](https://github.com/yt-dlp/yt-dlp/releases)
+- ModernX [<git_v0.2.5>](https://github.com/zydezu/ModernX/releases)
+- Thumbfast [<git_20231209>](https://github.com/po5/thumbfast)
+- Python-embed-amd64 [<3.11.7>](https://www.python.org/downloads)
+- VapourSynth-portable [<git_R_65>](https://github.com/vapoursynth/vapoursynth/releases)
+- 视频滤镜与着色器 [<git_mpv-lazy-2024V0>](https://github.com/hooke007/MPV_lazy/releases)
 
 ## 🔑 安装 [🔝](#目录)
 > 不可使用覆盖旧版文件的形式进行更新，请提前做好个人配置的备份
-
-> 如需使用默认的srt字幕字体，请下载安装[得意黑](https://github.com/atelier-anchor/smiley-sans)开源简体中字（不安装则显示为系统字体）
 
 - 下载安装[.NET framework 4.8](https://support.microsoft.com/zh-cn/topic/%E9%80%82%E7%94%A8%E4%BA%8E-windows-%E7%9A%84-microsoft-net-framework-4-8-%E8%84%B1%E6%9C%BA%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-9d23f658-3b97-68ab-d013-aa3c3e7495e0)运行库（win10 1903及之后版本的系统内已集成）
 - 删除原有mpv.net-DW
@@ -191,6 +188,7 @@
 见网页端右侧Releases或移动端下方Releases
 
 ## 💌 鸣谢 [🔝](#目录)
+- mpvnet-player/mpv.net
 - hooke007/mpv.net_CM, MPV_lazy
 - zydezu/ModernX
 - po5/thumbfast

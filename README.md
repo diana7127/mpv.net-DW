@@ -166,6 +166,7 @@
 - [osc-ModernX配置说明](https://github.com/zydezu/ModernX#configuration)
 
 ## 🧰 更新 [🔝](#目录)
+> [!NOTE]
 > 更新频率：季更/半年更
 - mpv-dev-x86_64-v3 [<shinchiro_20240121>](https://sourceforge.net/projects/mpv-player-windows/files/libmpv/)
 - MediaInfo [<v23.11>](https://mediaarea.net/en/MediaInfo/Download/Windows)
@@ -177,6 +178,7 @@
 - 视频滤镜与着色器 [<git_mpv-lazy-2024V0>](https://github.com/hooke007/MPV_lazy/releases)
 
 ## 🔑 安装 [🔝](#目录)
+> [!IMPORTANT]
 > 不可使用覆盖旧版文件的形式进行更新，请提前做好个人配置的备份
 
 - 下载安装[.NET framework 4.8](https://support.microsoft.com/zh-cn/topic/%E9%80%82%E7%94%A8%E4%BA%8E-windows-%E7%9A%84-microsoft-net-framework-4-8-%E8%84%B1%E6%9C%BA%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-9d23f658-3b97-68ab-d013-aa3c3e7495e0)运行库（win10 1903及之后版本的系统内已集成）

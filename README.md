@@ -33,7 +33,7 @@
 ## 📊 简介 [🔝](#目录)
 🔲mpv.net-DW_v2024：基于mpv.net v7版和mpv_lazy的个人定制版
 
-🔳[mpv.net-DW_v2.0](https://github.com/diana7127/mpv.net-DW/tree/main)：基于mpv.net v6版和mpv.net_CM的个人定制版
+🔳[mpv.net-DW_v2.0](https://github.com/diana7127/mpv.net-DW/tree/mpv.net-v6)：基于mpv.net v6版和mpv.net_CM的个人定制版
 
 🔳mpv.net：基于mpv开源播放器的Windows媒体播放器
 

@@ -31,9 +31,9 @@
 - [💌 鸣谢](#-鸣谢-)
 
 ## 📊 简介 [🔝](#目录)
-🔲mpv.net-DW：mpv.net_CM的个人定制版
+🔲mpv.net-DW_v2.0：基于mpv.net v6版和mpv.net_CM的个人定制版
 
-🔳mpv.net_CM：mpv.net的中文分支模组
+🔳[mpv.net-DW_v2024](https://github.com/diana7127/mpv.net-DW/tree/mpv.net-v7)：基于mpv.net v7版和mpv_lazy的个人定制版
 
 🔳mpv.net：基于mpv开源播放器的Windows媒体播放器
 
@@ -170,7 +170,18 @@
 
 ⭕自动挂载滤镜/着色器
 - 如需启动时自动挂载视频滤镜或着色器，可在`mpv.conf编辑器`的`高级`列表里，将其路径填入`vf`（视频滤镜）或`glsl-shaders`（着色器）的选项框中
-  > 示例：在`vf`选项框中填入`vapoursynth=~~/vs/MEMC_MVT_STD.vpy`或`fps=fps=60/1.001`，在`glsl-shaders`选项框中填入`~~/shaders/Anime4K_Clamp_Highlights.glsl;~~/shaders/Anime4K_Restore_CNN_M.glsl`
+  > 示例：   
+  > - 在`vf`选项框中填入
+  > ```editorconfig
+  > vapoursynth=~~/vs/MEMC_MVT_STD.vpy
+  > ```
+  > ```editorconfig
+  > fps=fps=60/1.001
+  > ```
+  > - 在`glsl-shaders`选项框中填入
+  > ```editorconfig
+  > ~~/shaders/Anime4K_Clamp_Highlights.glsl;~~/shaders/Anime4K_Restore_CNN_M.glsl
+  > ```
 
 ### 🔘进阶说明
 ⭕mpv-player

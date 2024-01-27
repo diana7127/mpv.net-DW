@@ -31,7 +31,7 @@
 - [💌 鸣谢](#-鸣谢-)
 
 ## 📊 简介 [🔝](#目录)
-🔲mpv.net-DW_v2.0：基于mpv.net v6版和mpv.net_CM的个人定制版
+🔲[mpv.net-DW_v2.0](https://github.com/diana7127/mpv.net-DW/tree/mpv.net-v6)：基于mpv.net v6版和mpv.net_CM的个人定制版
 
 🔳[mpv.net-DW_v2024](https://github.com/diana7127/mpv.net-DW/tree/mpv.net-v7)：基于mpv.net v7版和mpv_lazy的个人定制版
 
@@ -77,7 +77,7 @@
 ## 🔳 上游版本特点 [🔝](#目录)
 > 引用自hooke007/mpv.net_CM
 
-### 🔘mpv.net_CM：
+### 🔘mpv.net_CM/mpv_lazy：
 - 界面汉化
 - 编辑器选项修改
 - 菜单条目+初始快捷键修改
@@ -111,6 +111,9 @@
 ![预览图06](https://user-images.githubusercontent.com/125502871/220125827-6a33ee6d-14a9-40fa-ae0c-733f6760f7b4.jpg)
 ![预览图07](https://user-images.githubusercontent.com/125502871/220144657-50817726-37f3-41c5-87be-9e50ca5a4cca.jpg)
 ![预览图08](https://user-images.githubusercontent.com/125502871/224598109-f36722d6-ebca-4d44-9113-63fadb079be3.jpg)
+![预览图09](https://github.com/diana7127/mpv.net-DW/assets/125502871/666aab10-1234-4fa4-bf98-e38f4e75711e)
+
+
 
 ## 📖 使用说明 [🔝](#目录)
 ### 🔘OSC

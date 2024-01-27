@@ -77,7 +77,7 @@
 ## 🔳 上游版本特点 [🔝](#目录)
 > 引用自hooke007/mpv.net_CM
 
-### 🔘mpv.net_CM/mpv_lazy
+### 🔘mpv.net_CM
 ✔️界面汉化
 
 ✔️编辑器选项修改

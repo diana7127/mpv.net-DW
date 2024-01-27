@@ -31,9 +31,9 @@
 - [💌 鸣谢](#-鸣谢-)
 
 ## 📊 简介 [🔝](#目录)
-🔲[mpv.net-DW_v2.0](https://github.com/diana7127/mpv.net-DW/tree/mpv.net-v6)：基于mpv.net v6版和mpv.net_CM的个人定制版
+🔲[mpv.net-DW_vX.0](https://github.com/diana7127/mpv.net-DW/tree/mpv.net-v6)：基于mpv.net v6版和mpv.net_CM的个人定制版
 
-🔲[mpv.net-DW_v2024](https://github.com/diana7127/mpv.net-DW/tree/mpv.net-v7)：基于mpv.net v7版和mpv_lazy的个人定制版
+🔲[mpv.net-DW_v202X.0](https://github.com/diana7127/mpv.net-DW/tree/mpv.net-v7)：基于mpv.net v7版和mpv_lazy的个人定制版
 
 🔳mpv.net：基于mpv开源播放器的Windows媒体播放器
 
@@ -147,7 +147,7 @@
 ![预览图08](https://user-images.githubusercontent.com/125502871/224598109-f36722d6-ebca-4d44-9113-63fadb079be3.jpg)
 </details>
 <details>
-<summary>- 202X (mpv.net v7.0+)版界面</summary>
+<summary>- 202X.0 (mpv.net v7.0+)版界面</summary>
 
 ![预览图09](https://raw.githubusercontent.com/mpvnet-player/mpv.net/main/docs/img/ConfEditor.webp)
 

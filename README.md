@@ -253,6 +253,7 @@
 > 更新频率：季更/半年更
 
 - mpv-dev-x86_64-v3 [<shinchiro_20240121>](https://sourceforge.net/projects/mpv-player-windows/files/libmpv/)
+- mpv.net_CM [git_mpvnet-CM-obs](https://github.com/hooke007/mpv.net_CM/releases)/mpv.net [git_v7.1.0.0](https://github.com/mpvnet-player/mpv.net/releases)
 - MediaInfo [<v23.11>](https://mediaarea.net/en/MediaInfo/Download/Windows)
 - yt-dlp [<git_2023.12.30>](https://github.com/yt-dlp/yt-dlp/releases)
 - ModernX [<git_v0.2.5>](https://github.com/zydezu/ModernX/releases)
@@ -265,7 +266,9 @@
 > [!IMPORTANT]
 > 不可使用覆盖旧版文件的形式进行更新，请提前做好个人配置的备份
 
-- 下载安装[.NET framework 4.8](https://support.microsoft.com/zh-cn/topic/%E9%80%82%E7%94%A8%E4%BA%8E-windows-%E7%9A%84-microsoft-net-framework-4-8-%E8%84%B1%E6%9C%BA%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-9d23f658-3b97-68ab-d013-aa3c3e7495e0)运行库（win10 1903及之后版本的系统内已集成）
+> [!NOTE]
+> - X.0 (mpv.net v6.0)版:下载安装[.NET framework 4.8](https://support.microsoft.com/zh-cn/topic/%E9%80%82%E7%94%A8%E4%BA%8E-windows-%E7%9A%84-microsoft-net-framework-4-8-%E8%84%B1%E6%9C%BA%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-9d23f658-3b97-68ab-d013-aa3c3e7495e0)运行库（win10 1903及之后版本的系统内已集成）   
+> - 202X.0 (mpv.net v7.0+)版:下载安装[.NET Desktop Runtime 6.0](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)运行库
 - 删除原有mpv.net-DW
 - 下载安装最新版mpv.net-DW
 - 运行mpvnet.exe

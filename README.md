@@ -267,8 +267,8 @@
 > 不可使用覆盖旧版文件的形式进行更新，请提前做好个人配置的备份
 
 > [!NOTE]
-> - X.0 (mpv.net v6.0)版:下载安装[.NET framework 4.8](https://support.microsoft.com/zh-cn/topic/%E9%80%82%E7%94%A8%E4%BA%8E-windows-%E7%9A%84-microsoft-net-framework-4-8-%E8%84%B1%E6%9C%BA%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-9d23f658-3b97-68ab-d013-aa3c3e7495e0)运行库（win10 1903及之后版本的系统内已集成）   
-> - 202X.0 (mpv.net v7.0+)版:下载安装[.NET Desktop Runtime 6.0](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)运行库
+> ❣️X.0 (mpv.net v6.0)版❣️下载安装[.NET framework 4.8](https://support.microsoft.com/zh-cn/topic/%E9%80%82%E7%94%A8%E4%BA%8E-windows-%E7%9A%84-microsoft-net-framework-4-8-%E8%84%B1%E6%9C%BA%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F-9d23f658-3b97-68ab-d013-aa3c3e7495e0)运行库（win10 1903及之后版本的系统内已集成）   
+> ❣️202X.0 (mpv.net v7.0+)版❣️下载安装[.NET Desktop Runtime 6.0](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)运行库
 - 删除原有mpv.net-DW
 - 下载安装最新版mpv.net-DW
 - 运行mpvnet.exe

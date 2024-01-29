@@ -140,14 +140,14 @@
 
 ### 🔘设置选项
 <details>
-<summary>- X.0 (mpv.net v6.0)版界面</summary>
+<summary>- ❣️X.0 (mpv.net v6.0)版❣️界面</summary>
 	
 ![预览图06](https://user-images.githubusercontent.com/125502871/220125827-6a33ee6d-14a9-40fa-ae0c-733f6760f7b4.jpg)
 ![预览图07](https://user-images.githubusercontent.com/125502871/220144657-50817726-37f3-41c5-87be-9e50ca5a4cca.jpg)
 ![预览图08](https://user-images.githubusercontent.com/125502871/224598109-f36722d6-ebca-4d44-9113-63fadb079be3.jpg)
 </details>
 <details>
-<summary>- 202X.0 (mpv.net v7.0+)版界面</summary>
+<summary>- ❣️202X.0 (mpv.net v7.0+)版❣️界面</summary>
 
 ![预览图09](https://raw.githubusercontent.com/mpvnet-player/mpv.net/main/docs/img/ConfEditor.webp)
 
@@ -211,8 +211,7 @@
 
 ✳️自动挂载滤镜/着色器
 
-⭕X.0 (mpv.net v6.0)版
-- 在`mpv.conf编辑器`的`高级`列表里，将其路径填入`vf`（视频滤镜）或`glsl-shaders`（着色器）的选项框中
+- ❣️X.0 (mpv.net v6.0)版❣️在`mpv.conf编辑器`的`高级`列表里，将其路径填入`vf`（视频滤镜）或`glsl-shaders`（着色器）的选项框中
   > 示例：   
   > - 在`vf`选项框中填入
   > ```editorconfig
@@ -225,8 +224,7 @@
   > ```editorconfig
   > ~~/shaders/Anime4K_Clamp_Highlights.glsl;~~/shaders/Anime4K_Restore_CNN_M.glsl
   > ```
-⭕202X.0 (mpv.net v7.0+)版
-- 在`portable_config`文件夹中的`mpv.conf`，写入vf（视频滤镜）或glsl-shaders（着色器）的路径
+- ❣️202X.0 (mpv.net v7.0+)版❣️在`portable_config`文件夹中的`mpv.conf`，写入vf（视频滤镜）或glsl-shaders（着色器）的路径
   > 示例：
   > ```editorconfig
   > vf='vapoursynth=~~/vs/MEMC_MVT_STD.vpy

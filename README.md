@@ -182,7 +182,7 @@
 - 如需启动时自动挂载视频滤镜或着色器，可在`portable_config`文件夹中的`mpv.conf`，写入vf（视频滤镜）或glsl-shaders（着色器）的路径
   > 示例：
   > ```editorconfig
-  > vf='vapoursynth=~~/vs/MEMC_MVT_STD.vpy
+  > vf='vapoursynth=~~/vs/MEMC_MVT_STD.vpy'
   > ```
   > ```editorconfig
   > vf='fps=fps=60/1.001'

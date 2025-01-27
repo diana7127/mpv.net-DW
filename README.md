@@ -46,7 +46,7 @@
 
 ✳️集成SVP补帧滤镜（hooke007/MPV_lazy）
 
-✳️集成2x_AnimeJaNai V2和HFA2kCompact超分滤镜（hooke007/MPV_lazy）
+✳️集成2x_AnimeJaNai V3和HFA2kCompact超分滤镜（hooke007/MPV_lazy）
 
 ✳️支持多种渲染样式显示次字幕
 
@@ -248,7 +248,7 @@
 - [osc-ModernX配置说明](https://github.com/zydezu/ModernX#configuration)
 
 ## 🧰 更新 [🔝](#目录)
-> 更新频率：季更/半年更
+> 更新频率：半年更
 
 - mpv-dev-x86_64-v3 [<shinchiro_20240121>](https://sourceforge.net/projects/mpv-player-windows/files/libmpv/)
 - mpv.net_CM [git_mpvnet-CM-obs](https://github.com/hooke007/mpv.net_CM/releases)/mpv.net [git_v7.1.0.0](https://github.com/mpvnet-player/mpv.net/releases)
